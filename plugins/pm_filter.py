@@ -91,9 +91,9 @@ async def next_page(bot, query):
 
     btn.insert(0, 
         [
-            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/AximMovies'),
-            InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ', url='youtube.com/opusTechz'),
-            InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='https://t.me/MWUpdatez')
+            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/+uppb9gSXcPc0M2Y1'),
+            InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ', url='https://youtube.com/channel/UC4go4rO4n4hcBJDKX0DTCEQ'),
+            InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='https://t.me/Movies_Telugu_Top')
         ]
     )
    
@@ -107,7 +107,7 @@ async def next_page(bot, query):
     # How to Download button
 
     btn.append(
-    [InlineKeyboardButton(text="🍃 ʜᴏᴡ ᴛᴏ ᴏᴘᴇɴ ʟɪɴᴋ 🍃", url='https://t.me/Devil0Bot_Bot?start=ZmlsZV9CQUFEQlFBRFd3Z0FBanpyZVZiQ3VOeWlvc3pFYkJZRQ')]
+    [InlineKeyboardButton(text="How to Open this Links", url='https://t.me/How_To_Open_shortLinks/16')]
 )
     if n_offset == 0:
         btn.append(
@@ -469,11 +469,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer('sᴜᴘᴘᴏʀᴛ ᴘʟᴇᴀsᴇ')
     elif query.data == "help":
         buttons = [[            
-            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/AximMovies'),
-            InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='https://t.me/MWUpdatez')
+            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/Movies_Telugu_Top'),
+            InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='https://t.me/Movies_Telugu_Top')
         ], [
             InlineKeyboardButton('sᴛᴀᴛᴜs', callback_data='stats'),
-            InlineKeyboardButton('ᴏᴡɴᴇʀ', url='https://t.me/AboutAadhi')
+            InlineKeyboardButton('ᴏᴡɴᴇʀ', url='https://t.me/Movies_Telugu_Top')
         ], [
             InlineKeyboardButton('ʙᴀᴄᴋ ᴛᴏ sᴛᴀʀᴛ', callback_data='start')
         ]]
@@ -622,7 +622,7 @@ async def auto_filter(client, msg, spoll=False):
         ]
 
     btn.append(
-    [InlineKeyboardButton(text="🍃 ʜᴏᴡ ᴛᴏ ᴏᴘᴇɴ ʟɪɴᴋ 🍃", url='https://t.me/Devil0Bot_Bot?start=ZmlsZV9CQUFEQlFBRFd3Z0FBanpyZVZiQ3VOeWlvc3pFYkJZRQ')]
+    [InlineKeyboardButton(text="🍃 ʜᴏᴡ ᴛᴏ ᴏᴘᴇɴ ʟɪɴᴋ 🍃", url='https://t.me/How_To_Open_shortLinks/16')]
 )
 
     
@@ -630,9 +630,9 @@ async def auto_filter(client, msg, spoll=False):
 
     btn.insert(0, 
         [
-            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/AximMovies'),
-            InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ', url='youtube.com/opusTechz'),
-            InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='https://t.me/MWUpdatez')
+            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/Movies_Telugu_Top'),
+            InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ', url='https://youtube.com/channel/UC4go4rO4n4hcBJDKX0DTCEQ'),
+            InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='https://t.me/+87W2eNnuHKVjMmU9')
         ]
     )
     
