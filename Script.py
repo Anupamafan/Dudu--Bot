@@ -29,16 +29,16 @@ Name - {}
 <b>›› 𝙳𝙾 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝙰 𝙱𝙾𝚃 𝚂𝙰𝙼𝙴 𝙻𝙸𝙺𝙴 𝚃𝙷𝙸𝚂</b>
 <b>›› 𝚆𝙸𝚃𝙷 𝙰𝙻𝙻 𝚈𝙾𝚄𝚁 𝙲𝚁𝙴𝙳𝙸𝚃𝚂</b>
 <b>›› 𝚆𝙸𝚃𝙷 𝚈𝙾𝚄𝚁 𝙾𝚆𝙽𝙴𝚁𝚂𝙷𝙸𝙿</b>
-<b>›› 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴 <a href=https://t.me/AboutAadhi>𝙰𝙰𝙳𝙷𝙸</a></b>"""
+<b>›› 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴 <a href=https://t.me/Anonymous_owner_bot>Nani</a></b>"""
 
-    ABOUT_TXT = """<b>✮ ᴄʀᴇᴀᴛᴏʀ : <a href=https://t.me/AboutAadhi>𝙰𝙰𝙳𝙷𝙸</a></b>
+    ABOUT_TXT = """<b>✮ ᴄʀᴇᴀᴛᴏʀ : <a href=https://t.me/Iam_Channel_Admin>𝙰𝙰𝙳𝙷𝙸</a></b>
 <b>✮ ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>
 <b>✮ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 𝟹</b>
 <b>✮ ᴅᴀᴛᴀʙᴀsᴇ : ᴍᴏɴɢᴏ ᴅʙ</b>
 <b>✮ sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>
 <b>✮ ʙᴜɪʟᴅ sᴛᴀᴛs : 𝚅4.7[sᴛᴀʙʟᴇ]</b>
-<b>✮ ᴜᴘᴅᴀᴛᴇs : <a href=https://t.me/MWUpdatez>ᴍᴡ ᴜᴘᴅᴀᴛᴇᴢ</a></b>
-<b>✮ 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: <a href=https://youtube.com/OpusTechz>ᴏᴘᴜs ᴛᴇᴄʜᴢ</a></b>"""
+<b>✮ ᴜᴘᴅᴀᴛᴇs : <a href=https://t.me/Movies_Telugu_Top>ᴍᴡ ᴜᴘᴅᴀᴛᴇᴢ</a></b>
+<b>✮ 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: <a href=https://t.me/Movies_Telugu_Top>ᴏᴘᴜs ᴛᴇᴄʜᴢ</a></b>"""
 
     HELP_TXT = """ʜᴇʏ {}
 ʜᴇʀᴇ ɪs ᴍʏ ʜᴇʟᴘ ᴄᴏᴍᴍᴀɴᴅs."""
