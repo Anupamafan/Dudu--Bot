@@ -91,9 +91,9 @@ async def next_page(bot, query):
 
     btn.insert(0, 
         [
-            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/+uppb9gSXcPc0M2Y1'),
+            InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/Movies_Telugu_Top'),
             InlineKeyboardButton('sᴜʙsᴄʀɪʙᴇ', url='https://youtube.com/channel/UC4go4rO4n4hcBJDKX0DTCEQ'),
-            InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='https://t.me/Movies_Telugu_Top')
+            InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='https://t.me/+uppb9gSXcPc0M2Y1')
         ]
     )
    
@@ -159,7 +159,7 @@ async def advantage_spoll_choker(bot, query):
             k = (movie, files, offset, total_results)
             await auto_filter(bot, query, k)
         else:
-            k = await query.message.edit("<b>💌 ᴛʜɪs ᴍᴏᴠɪᴇ ɪs ɴᴏᴛ ʏᴇᴛ ʀᴇʟᴇᴀsᴇᴅ ᴏʀ ᴀᴅᴅᴇᴅ ᴛᴏ ᴍʏ ᴅᴀᴛᴀʙᴀsᴇ 💌</b>\n› <a href=https://t.me/MWUpdatez><b>ᴍᴡ ᴜᴘᴅᴀᴛᴇᴢ</b></a>", disable_web_page_preview=True)            
+            k = await query.message.edit("<b>💘This Movie Is Not Released Or Not Added To My Database 💕</b>\n› <a href=https://t.me/Anonymous_owner_bot><b>Please Inform To Owner</b></a>", disable_web_page_preview=True)            
             await asyncio.sleep(14)
             await k.delete()
 
@@ -622,7 +622,7 @@ async def auto_filter(client, msg, spoll=False):
         ]
 
     btn.append(
-    [InlineKeyboardButton(text="🍃 ʜᴏᴡ ᴛᴏ ᴏᴘᴇɴ ʟɪɴᴋ 🍃", url='https://t.me/How_To_Open_shortLinks/16')]
+    [InlineKeyboardButton(text="🔰How To Download This Movies🔰", url='https://t.me/How_To_Open_shortLinks/16')]
 )
 
     
@@ -717,7 +717,7 @@ async def advantage_spell_chok(msg):
     g_s += await search_gagala(msg.text)
     gs_parsed = []
     if not g_s:
-        k = await msg.reply("<b>I couldn't find any movie in that name.</b>\n› <a href=https://t.me/MWUpdatez><b>ᴍᴡ ᴜᴘᴅᴀᴛᴇᴢ</b></a>", disable_web_page_preview=True)
+        k = await msg.reply("<b>I couldn't find any movie in that name.</b>\n› <a href=https://t.me/Movies_Telugu_Top><b>ᴍᴡ ᴜᴘᴅᴀᴛᴇᴢ</b></a>", disable_web_page_preview=True)
         await asyncio.sleep(8)
         await k.delete()
         return
@@ -746,7 +746,7 @@ async def advantage_spell_chok(msg):
     movielist += [(re.sub(r'(\-|\(|\)|_)', '', i, flags=re.IGNORECASE)).strip() for i in gs_parsed]
     movielist = list(dict.fromkeys(movielist))  # removing duplicates
     if not movielist:
-        k = await msg.reply("<b>ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏᴛʜɪɴɢ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ᴛʜᴀᴛ. ᴄʜᴇᴄᴋ ʏᴏᴜʀ ꜱᴘᴇʟʟɪɴɢ</b>\n› <a href=https://t.me/MWUpdatez><b>ᴍᴡ ᴜᴘᴅᴀᴛᴇᴢ</b></a>", disable_web_page_preview=True)
+        k = await msg.reply("<b>ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏᴛʜɪɴɢ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ᴛʜᴀᴛ. ᴄʜᴇᴄᴋ ʏᴏᴜʀ ꜱᴘᴇʟʟɪɴɢ</b>\n› <a href=https://t.me/Movies_Telugu_Top><b>ᴍᴡ ᴜᴘᴅᴀᴛᴇᴢ</b></a>", disable_web_page_preview=True)
         await asyncio.sleep(8)
         await k.delete()
         return
